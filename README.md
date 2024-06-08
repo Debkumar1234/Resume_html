@@ -1,3 +1,7 @@
 # Resume_html
 
-# Delta Demo
+# Teacher
+Apna College
+
+# Student
+Debkumar Mallick
